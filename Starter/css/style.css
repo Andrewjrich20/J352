@@ -1,3 +1,30 @@
 body {
-  background-color:#ffffff;
+  background-color:#000000;
+
+  font-family: "Rubik Distressed", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p{color:#ffffff}
+
+h1{color:#ffffff;
+background-color:#DABC2D ;
+width:50%;
+padding:25px;
+text-align:center;
+}
+
+h2{color:#ffffff}
+
+ul{color:#DABC2D}
+
+a {color:#DABC2D}
+
+a:hover{color:#ffffff}
+
+.sid {color:blue}
+
+.cup {
+margin-right:50px;
 }
