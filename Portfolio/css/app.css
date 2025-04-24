@@ -1,3 +1,30 @@
+body {
+  font-family: "Special Gothic", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .Intro{
 	background-color: #8093F1;
+}
+
+.Bar{
+	background-color: #F7AEF8;
+	height:10px;
+}
+
+.Resume{
+	text-align:left
+}
+
+.Resume h2{
+	text-align: center;
+}
+
+.Bottom h2{
+	text-align: center;
+}
+
+.Work h2{
+	text-align: center;
 }
