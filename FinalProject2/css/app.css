@@ -1,0 +1,46 @@
+body{
+font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;	
+}
+
+h1{
+	font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.Navbar {
+	background-color:#7EB09B;
+	height:25px;
+}
+
+.Timeline h2 {
+	text-align: center;
+	font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.Pic1{
+	padding-top: 10px;
+	width:200%;
+}
+.Pic1 p{
+	text-align: center;
+}
+
+.Pullquote{
+	background-color: #476A6F;
+	font-size: 30px;
+	color: white;
+	justify-content: center;
+	border-radius: 25px;
+}
+
+.Video {
+	padding-bottom: 20px;
+}
